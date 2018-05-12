@@ -1,0 +1,26 @@
+_repo: Ensitaistelujen-ajoilta_20514
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tiuppa, Otto
+    birthdate: 1872
+    deathdate: 1914
+    gutenberg_agent_id: '9347'
+    url: http://www.gutenberg.org/2009/agents/9347
+description: ''
+gutenberg_issued: '2007-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20514'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+title: Ensitaistelujen ajoilta
+url: http://www.gutenberg.org/ebooks/20514
